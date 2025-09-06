@@ -75,5 +75,4 @@ O programa abre uma janela com 8 imagens lado a lado:
 * VAN DER WALT, S. et al. *scikit-image: image processing in Python*. PeerJ 2\:e453, 2014.
 * Documentação do [OpenCV](https://docs.opencv.org/).
 
-👉 Quer que eu monte também o arquivo **requirements.txt** correspondente, para já deixar pronto no repositório?
-```
+
